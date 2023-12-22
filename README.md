@@ -1,2 +1,13 @@
 # duuml0cK.github.io
 W.M.O WEBAPP
+
+<html>
+  <head></head>
+  <body>
+    <h1>Watch out for the flying cat!</h1>
+    <p>
+      Here it comes:
+      <img src="http://bit.ly/r3fgru" />
+    </p>
+  </body>
+</html>
