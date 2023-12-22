@@ -1,23 +1,18 @@
 # duuml0cK.github.io
-W.M.O WEBAPP
+  
+</DOCTYPE!'>
+</html> 
+Body {
+<p>
+  Art of Revenue <span class="highlight">Promises Top Quality!</span>; its
+  background has been colored to display both the beginning and end of the
+  element's influence. Input elements, like <input type="radio" /> and
+  <input type="checkbox" />, are also inline-level content.
+</p>
 
-<html>
-  <head></head>
-body {
-  background: rgba(51, 170, 51, .4);
-  font-family: "Helvetica Neue Light", Helvetica, sans-serif;
-  font-weight: 300;
-  text-align: center;
- } 
-  <h1>CHOOSE ANY COMBONATION OF REVENUE+/TEIR.</h1>
-  <h2>b "(tiers currently disbabled D;" )</h2>
-    <p>""""
-    CPNSAUCE           1MO.PASS
-    BITCOIN            1MO.PASS
-    SPORTSBETTER HITS  1MO.PASS
-    BASKINAOURA        1MO.PASS
-      
-      <img src="https://d1hfln2sfez66z.cloudfront.net/12-23-2021/t_ce20496fba094d71a489edab4baa9980_name_money.jpg" />
-    </p>
-  </body>
+<picture>
+  <source srcset="" media="(orientation: portrait)" />
+  <img src="https://t4.ftcdn.net/jpg/05/21/61/77/360_F_521617788_tW8J94DiIAr3L26zND5RzcwxrCpJcOrt.jpg" alt="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-_eP_O-PTMjWYmQ9fsp6jwJwpNYcs_l-iVg&usqp=CAU" />
+</picture>
+  
 </html>
