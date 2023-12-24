@@ -4,8 +4,10 @@
 
 <section id="deals">
   <section class="sale-item">
-  <h1>Tier1 *granted limited access</h1>  
-  <p>TIER1 AVAILABLE IN 3 REVENUE ROUTES.
+  
+<h1>Tier1 *granted limited access</h1>  
+<h2>TIER1 AVAILABLE IN 3 REVENUES<h/2>
+   <p>
   <ul>
     <li>SPORTSBETTERHITS TIER1
     <li>CRYPTO           TIER1
