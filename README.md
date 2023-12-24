@@ -1,6 +1,6 @@
 # Art of Revenue
   
-"<!DOCTYPE html>"
+<!DOCTYPE html>
 <section id="deals">
   <section class="sale-item">
   <h1>Tier1 *granted limited access</h1>  
