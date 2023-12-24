@@ -1,6 +1,7 @@
 # Art of Revenue
   
 <!DOCTYPE html>
+
 <section id="deals">
   <section class="sale-item">
   <h1>Tier1 *granted limited access</h1>  
@@ -15,7 +16,7 @@
   background has been colored to display both the beginning and end of the
   element's influence. Input elements, like <input type="radio" /> and
   <input type="checkbox" />, are also inline-level content.
-/>
+ />
 </p>
 
 <picture>
