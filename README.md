@@ -9,8 +9,8 @@
     <li>SPORTSBETTERHITS TIER1
     <li>CRYPTO           TIER1
     <li>iOS-SOS/EXPLOITS TIER1
-  </ul>
-  <img src="https://see.fontimg.com/api/renderfont4/w1OB8/eyJyIjoiZnMiLCJoIjo2MiwidyI6MTAwMCwiZnMiOjYyLCJmZ2MiOiIjMDAwMDAwIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/QXJ0IG9mIFJldmVudWU/millenia-personal-use.png"
+  </ul><
+  img src="https://see.fontimg.com/api/renderfont4/w1OB8/eyJyIjoiZnMiLCJoIjo2MiwidyI6MTAwMCwiZnMiOjYyLCJmZ2MiOiIjMDAwMDAwIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/QXJ0IG9mIFJldmVudWU/millenia-personal-use.png"
   Art of Revenue <span class="highlight">Promises Top Quality!</span>; its
   background has been colored to display both the beginning and end of the
   element's influence. Input elements, like <input type="radio" /> and
