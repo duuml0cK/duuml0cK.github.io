@@ -1,6 +1,9 @@
+<!DOCTYPE html>
+<html>
+
 # Art of Revenue
   
-<!DOCTYPE html>
+
 
 <section id="deals">
   <section class="sale-item">
