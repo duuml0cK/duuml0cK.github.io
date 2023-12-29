@@ -15,8 +15,8 @@
   </ul>
   <img src="https://see.fontimg.com/api/renderfont4/w1OB8/eyJyIjoiZnMiLCJoIjo2MiwidyI6MTAwMCwiZnMiOjYyLCJmZ2MiOiIjMDAwMDAwIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/QXJ0IG9mIFJldmVudWU/millenia-personal-use.png"
   Art of Revenue <span class= "highlight"> Promises Top Quality! <span/>
-   <input type="radio" /> and
-  <input type="checkbox" />, 
+   <input type="" /> 
+  <input type="checkbox" /> 
 </p>
 
 <picture>
