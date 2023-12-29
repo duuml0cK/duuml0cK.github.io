@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html>
-
+  <header></header>
 # Art of Revenue
-  
-
 
 <section id="deals">
   <section class="sale-item">
@@ -26,5 +24,4 @@
   <source srcset="" media="(orientation: portrait)" />
   <img src="https://t4.ftcdn.net/jpg/05/21/61/77/360_F_521617788_tW8J94DiIAr3L26zND5RzcwxrCpJcOrt.jpg" alt="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-_eP_O-PTMjWYmQ9fsp6jwJwpNYcs_l-iVg&usqp=CAU" />
 </picture>
-  
-</html>
+  </html>
